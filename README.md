@@ -28,4 +28,4 @@ tic-tac-toe/
 
 ## Author
 
-Padmapriya Sravanaperumal
+Padmapriya Saravanaperumal
