@@ -4,7 +4,10 @@
 
 This Tic Tac Toe web application allows users to play the classic game either with a friend or against an AI. The game features a responsive design, interactive gameplay, and a clean user interface.
 
-<img src="https://png.pngtree.com/png-clipart/20230917/original/pngtree-tic-tac-toe-game-icon-in-a-square-shape-with-colorful-png-image_12280579.png">
+
+<img  align='right' src="https://png.pngtree.com/png-clipart/20230917/original/pngtree-tic-tac-toe-game-icon-in-a-square-shape-with-colorful-png-image_12280579.png"
+width="230">
+
 
 ## Features
 
@@ -13,6 +16,7 @@ This Tic Tac Toe web application allows users to play the classic game either wi
 3. **Interactive Gameplay:** ✨ Clickable game boxes that update with each player's move and highlight the winning combination.
 4. **Restart Functionality:** 🔄 Restart the game at any time with a dedicated button.
 5. **Stylish UI:** 🎨 Uses custom fonts and colors to enhance the visual appeal.
+
 
 ## Technologies Used
 
