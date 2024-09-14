@@ -23,6 +23,11 @@ width="230">
 - 🎨 **CSS:** For styling and layout.
 - 💻 **JavaScript:** For game logic and interactivity.
 
+##  Visit the Project
+
+# [❌⭕❌ Get Your Game On!](https://priyatechky.neocities.org/Tic-Tac-Toe/)
+
+
 
 ## Project Structure
 
