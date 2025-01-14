@@ -21,7 +21,7 @@ width="230">
    cd tic-tac-toe
 2. **Open `index.html` in your preferred browser:**
      - Double-click the `index.html` file in the project folder.
-     - 
+       
 ## How to Use  
 
 1. **Start the game:**  
