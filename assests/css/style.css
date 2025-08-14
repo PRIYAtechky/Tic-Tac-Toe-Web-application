@@ -1,9 +1,11 @@
+/* Reset styles */
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
+/* Theme colors */
 :root {
     --orange: #f24eed;
     --winning-blocks: #438397;
@@ -71,3 +73,4 @@ button:hover {
     cursor: pointer;
     transform: translateY(-2px);
 }
+
