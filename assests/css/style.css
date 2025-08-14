@@ -11,16 +11,19 @@
     --winning-blocks: #438397;
 }
 
+/* Body text and font */
 body {
     color: var(--orange);
     font-family: 'Finger Paint', cursive;
 }
 
+/* Heading */
 h1 {
     font-size: 54px;
     text-transform: uppercase;
 }
 
+/* Main container */
 .container {
     padding: 40px;
     height: 100vh;
@@ -31,6 +34,7 @@ h1 {
     background-color: #374e5c;
 }
 
+/* Game cells */
 #gameboard {
     width: 300px;
     display: flex;
@@ -73,4 +77,5 @@ button:hover {
     cursor: pointer;
     transform: translateY(-2px);
 }
+
 
