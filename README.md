@@ -55,3 +55,11 @@ tic-tac-toe/
 ├── index.html
 ├── style.css
 └── game_logic.js
+
+
+## ⭐ Give a Star!  
+If you like this project, feel free to ⭐ the repo.  
+Your support motivates me to build more projects!
+
+
+
