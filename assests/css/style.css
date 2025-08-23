@@ -42,6 +42,7 @@ h1 {
     margin-top: 40px;
 }
 
+/* Styles for each Tic Tac Toe box */
 .box {
     height: 100px;
     width: 100px;
@@ -54,14 +55,17 @@ h1 {
     border-bottom: 2px solid;
 }
 
+/* Remove right border for every 3rd box (end of row) */
 .box:nth-child(3n) {
     border-right: none;
 }
 
+/* Remove bottom border for last row (boxes after 6th) */
 .box:nth-child(6) ~ .box {
     border-bottom: none;
 }
 
+/* General button styles */
 button {
     padding: 10px 20px;
     border-radius: 10px;
@@ -73,9 +77,11 @@ button {
     font-weight: 600;
 }
 
+/* Hover effect for buttons */
 button:hover {
     cursor: pointer;
     transform: translateY(-2px);
 }
+
 
 
