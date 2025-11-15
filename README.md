@@ -20,20 +20,20 @@ width="230">
    git clone https://github.com/PRIYAtechky/Tic-Tac-Toe-Web-application
    cd tic-tac-toe
 2. **Open `index.html` in your preferred browser:**
-     - Double-click the `index.html` file in the project folder.
+   * Double-click the `index.html` file in the project folder.
        
 ## How to Use  
 
 1. **Start the game:**  
-   - Open the `index.html` file in your web browser.  
+   * Open the `index.html` file in your web browser.  
 
 2. **Gameplay instructions:**  
-   - Choose your preferred mode: **Play with Friend** or **Play with AI**.  
-   - Players take turns clicking on the grid cells to mark them with **X** or **O**.  
-   - The game automatically detects winners or declares a draw when the board is full.  
+   * Choose your preferred mode: **Play with Friend** or **Play with AI**.  
+   * Players take turns clicking on the grid cells to mark them with **X** or **O**.  
+   * The game automatically detects winners or declares a draw when the board is full.  
 
 3. **Reset the game:**  
-   - Use the **Reset** button to clear the board and start a new game.  
+   * Use the **Reset** button to clear the board and start a new game.  
 
 ## Technologies Used
 
@@ -60,6 +60,7 @@ tic-tac-toe/
 ## ⭐ Give a Star!  
 If you like this project, feel free to ⭐ the repo.  
 Your support motivates me to build more projects!
+
 
 
 
